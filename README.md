@@ -31,8 +31,9 @@ You can click the Preview link to take a look at your changes.
   
   <a href="https://instagram.com/manullopees" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/manulopes" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href = "mailto:emanuelycristina94@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuely-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <br>
+  [![Hotmail Badge](https://img.shields.io/badge/-Outlook-15AB89?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:emanuelycristina94@hotmail.com)](mailto:emanuelycristina94@hotmail.com)
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
