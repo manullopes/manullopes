@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @manullopes, brazilian currently living in Edmonton, AB
 - 👀 I’m interested in games, tv shows, movies and of course: coding.
-- 🌱 I’m currently learning html, css, java and react. So far I would tell that im really good. Planning in lear more languages this year
+- 🌱 I’m currently learning html, css, java and react. So far I would tell that im really good. Planning in lear more languages this year.
 - 💞️ I’m looking to collaborate on any project for someone who is iniating in coding like me
 
 
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://instagram.com/manullopees" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/manulopes" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuely-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <br>
+  <br>
   [![Hotmail Badge](https://img.shields.io/badge/-Outlook-15AB89?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:emanuelycristina94@hotmail.com)](mailto:emanuelycristina94@hotmail.com)
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
