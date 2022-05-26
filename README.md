@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @manullopes, brazilian currently living in Edmonton, AB
 - 👀 I’m interested in games, tv shows, movies and of course: coding.
-- 🌱 I’m currently learning html, css, JavaScript  and react. So far I would tell that im really good. Planning in lear more languages this year.
+- 🌱 I’m currently learning html, css, JavaScript  and react. So far I would tell that I'm learning faster. Planning in learn more languages this year.
 - 💞️ I’m looking to collaborate on any project for someone who is starting in coding like me.
    <br>
    <br>
